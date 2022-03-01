@@ -1,2 +1,1 @@
-git is interesting
-git 
+git updated
